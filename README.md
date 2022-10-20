@@ -1,2 +1,1 @@
-# 315haoge
-:smile:
+![315haoge's GitHub stats](https://github-readme-stats.vercel.app/api?username=315haoge&show_icons=true)
