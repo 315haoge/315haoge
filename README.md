@@ -1,1 +1,1 @@
-![315haoge's GitHub stats](https://github-readme-stats.vercel.app/api?username=315haoge&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=315haoge)](https://git.io/streak-stats)
